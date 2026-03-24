@@ -24,7 +24,7 @@ Dependendo da versão do projeto, os dados podem incluir informações como:
 - metadados do filme ou da review
 - divisão entre treino e teste
 
-Arquivo utilizado no projeto:
+O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `imdb_reviews.tsv`
 
@@ -67,8 +67,9 @@ film-junky-union-sentiment-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── film-junky-union-sentiment-analysis.ipynb
-└── imdb_reviews.tsv
+├── film_junky_union_sentiment_analysis.ipynb
+└── datasets/
+    └── imdb_reviews.tsv
 ````
 
 ## Como executar
