@@ -67,7 +67,7 @@ film-junky-union-sentiment-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── film_junky_union_sentiment_analysis.ipynb
+├── film-junky-union-sentiment-analysis.ipynb
 └── imdb_reviews.tsv
 ````
 
@@ -91,7 +91,7 @@ film-junky-union-sentiment-analysis/
    pip install -r requirements.txt
    ```
 
-4. Abra o arquivo `film_junky_union_sentiment_analysis.ipynb` no Jupyter Notebook, JupyterLab ou VS Code.
+4. Abra o arquivo `film-junky-union-sentiment-analysis.ipynb` no Jupyter Notebook, JupyterLab ou VS Code.
 
 5. Execute as células em ordem.
 
