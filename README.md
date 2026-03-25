@@ -28,6 +28,10 @@ O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `imdb_reviews.tsv`
 
+## Objetivo do Projeto
+
+Desenvolver uma solução de processamento de linguagem natural e machine learning para classificar avaliações de filmes como positivas ou negativas, com foco em automatizar a interpretação de feedback textual.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -109,6 +113,8 @@ Entre os principais focos do projeto, estão:
 
 ## Resultados
 
+Demonstração da possibilidade de transformar avaliações textuais em dados estruturados para classificação de sentimento. Preparação do texto, comparação de abordagens de modelagem e avaliação da viabilidade de uma solução automatizada para análise de reviews em grande escala.
+
 O notebook inclui:
 
 * preparação e limpeza dos textos
@@ -122,6 +128,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como técnicas de processamento de linguagem natural e machine learning podem ser utilizadas para classificar automaticamente sentimentos em avaliações de filmes. A solução contribui para transformar feedback textual em informação acionável, permitindo análises mais rápidas, escaláveis e consistentes em contextos de negócio.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- preparação e limpeza de dados textuais
+- análise exploratória de bases de reviews
+- transformação de texto para modelagem
+- avaliação de modelos de classificação
+- interpretação de resultados em problemas de NLP
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- testar representações textuais mais avançadas
+- comparar modelos adicionais de classificação
+- incluir técnicas modernas de embeddings
+- aprofundar a análise de erros do modelo
 
 ## Autor
 
